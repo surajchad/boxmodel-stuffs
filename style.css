@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    margin: 50px;
+}
+li{
+    display: inline-block;
+}
+a{
+    border-right: 2px solid black;
+    padding-right: 15px;
+    
+}
+#last-a{
+    border: none;
+}
+h1{
+
+}
+img{
+    width: 350px;
+    height: 300px;
+    border: 4px solid yellowgreen;
+    margin: 20px;
+}
